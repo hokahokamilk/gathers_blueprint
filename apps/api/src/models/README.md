@@ -1,0 +1,1 @@
+DB構造をschema.prismaなどで管理。(DynamoDBの構造定義もここで行う。)
